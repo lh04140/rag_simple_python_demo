@@ -1,5 +1,4 @@
 # RAG Simple Python Demo
-
 一个简单的RAG（检索增强生成）技术演示项目，包含PDF生成功能。
 
 ## 项目概述
